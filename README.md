@@ -20,3 +20,5 @@ The backup module will only work when `list_db` is set to `True` (or is not conf
 
 ## 5. Bugs or problems
 Please post them here under 'Issues' and I will get back to you as soon as I can!
+## 6. Install
+《odoo 备份插件 安装指导》https://shimo.im/docs/svJuIwvoCVEO6S7C/
